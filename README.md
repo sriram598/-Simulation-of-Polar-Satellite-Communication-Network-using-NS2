@@ -1,4 +1,4 @@
-# 🛰️ Simulation of Polar Satellite Communication Network using NS2
+# Simulation of Polar Satellite Communication Network using NS2
 
 ## 📘 Overview
 This project simulates a **Polar Satellite Communication Network** using **NS2 (Network Simulator 2)**.
