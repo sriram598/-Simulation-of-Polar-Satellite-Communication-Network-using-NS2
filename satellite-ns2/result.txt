@@ -1,0 +1,9 @@
+Throughput(bps): 3201.16
+Average Delay(s): 0.22651
+Sent Packets: 24127.00
+Received Packets: 17147.00
+Dropped Packets: 6979.00
+PDR(%): 71.07
+Drop Ratio(%): 28.93
+Sim Time(s): 8998.90020
+Total Delay: 3883.96220
