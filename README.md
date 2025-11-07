@@ -24,6 +24,12 @@ It models communication between satellites and ground stations to study performa
 ##  Simulation Command
 ```bash
 ns tcl-sat.tcl 15
+awk -f perf.awk sat_trace.tr > result.txt
+cat result.txt
+gnuplot throughput.plt
+
+
+
 ```
 Here, **15** is the number of satellite nodes used in the simulation.
 
