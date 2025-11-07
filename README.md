@@ -26,7 +26,6 @@ It models communication between satellites and ground stations to study performa
 ns tcl-sat.tcl 15
 awk -f perf.awk sat_trace.tr > result.txt
 cat result.txt
-gnuplot throughput.plt
 
 
 
