@@ -1,6 +1,6 @@
 # Simulation of Polar Satellite Communication Network using NS2
 
-## 📘 Overview
+## Overview
 This project simulates a **Polar Satellite Communication Network** using **NS2 (Network Simulator 2)**.
 It models communication between satellites and ground stations to study performance metrics such as:
 - Throughput
@@ -9,7 +9,7 @@ It models communication between satellites and ground stations to study performa
 
 ---
 
-## 🧩 Files Included
+##  Files Included
 | File | Description |
 |------|--------------|
 | `tcl-sat.tcl` | Main NS2 simulation script |
@@ -21,7 +21,7 @@ It models communication between satellites and ground stations to study performa
 
 ---
 
-## 🧠 Simulation Command
+##  Simulation Command
 ```bash
 ns tcl-sat.tcl 15
 ```
@@ -29,7 +29,7 @@ Here, **15** is the number of satellite nodes used in the simulation.
 
 ---
 
-## 📊 Result Visualization
+##  Result Visualization
 To view results using **Gnuplot**, run:
 ```bash
 gnuplot throughput.plt
@@ -39,7 +39,7 @@ gnuplot delay.plt
 
 ---
 
-## 💡 Tools Used
+##  Tools Used
 - **NS2 (Network Simulator 2)**
 - **Tcl**
 - **AWK**
@@ -48,6 +48,6 @@ gnuplot delay.plt
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Tungala Sriram**  
 📫 [GitHub](https://github.com/sriram598)
